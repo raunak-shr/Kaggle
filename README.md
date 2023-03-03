@@ -1,5 +1,10 @@
 # Kaggle
-All kaggle submissions
+
+Contests so far - 
+
+- Advanceed Regression House Prices
+- Digit Recognizer
+- Spaceship Titanic
 ---
 ## Toolkit
 
